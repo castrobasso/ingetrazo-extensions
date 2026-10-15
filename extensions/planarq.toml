@@ -8,6 +8,7 @@ download = "https://raw.githubusercontent.com/castrobasso/ingetrazo/b1a7edf5ea51
 sha256 = "e1073d8c42d45921fc4ab626aff40c7f3f8c7a592878e9c55e3b4aa25dcad01b"
 ingetrazo = "0.5.7"
 tags = ["architecture", "structures", "education"]
+screenshot = "planarq.png"
 
 [name]
 es = "planArq"
